@@ -209,9 +209,9 @@ combos:
 - p: [15, 2]
   k: Gui+2
 - p: [16, 3]
-  k: Gui+2
+  k: Gui+3
 - p: [17, 4]
-  k: Gui+2
+  k: Gui+4
 - p: [18, 5]
   k: Gui+5
 - p: [7, 20]
