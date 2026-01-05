@@ -118,12 +118,12 @@
         };
 
         workspace3 {
-            bindings = <&kp LG(NUMBER_2)>;
+            bindings = <&kp LG(NUMBER_3)>;
             key-positions = <16 3>;
         };
 
         workspace4 {
-            bindings = <&kp LG(NUMBER_2)>;
+            bindings = <&kp LG(NUMBER_4)>;
             key-positions = <17 4>;
         };
 
